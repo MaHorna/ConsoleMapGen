@@ -7,3 +7,6 @@ can be run on linux with
 dotnet run Program.cs > test.txt
 
 with output to file to create interesting text file 
+
+
+description: monolithic system, no OOP, some hardcoded values, some values are not properly explained ... 
